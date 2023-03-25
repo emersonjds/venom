@@ -4,5 +4,12 @@
   "description": "Studies with venom bot",
   "main": "index.js",
   "author": "Emerosn Silva",
-  "license": "GPL-3.0"
+  "license": "GPL-3.0",
+  "dependencies": {
+    "nodemon": "^2.0.22",
+    "venom-bot": "^4.3.7"
+  },
+  "scripts": {
+    "start": "nodemon index.js"
+  }
 }
