@@ -1,0 +1,8 @@
+{
+  "name": "venom",
+  "version": "1.0.0",
+  "description": "Studies with venom bot",
+  "main": "index.js",
+  "author": "Emerosn Silva",
+  "license": "GPL-3.0"
+}
